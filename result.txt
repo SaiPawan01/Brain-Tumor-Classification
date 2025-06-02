@@ -1,0 +1,6 @@
+Model,Epochs,Training Loss,Testing Loss,Training Accuracy,Testing Accuracy
+vgg16_model_1.pth,50,0.8647,0.9540,87.97,80.39
+vgg16_model_2.pth,75,0.8511,0.8540,89.62,84.89
+vgg16_model_2.pth,100,0.8410,0.8483,90.27,85.20
+denseNet121_model_1.pth,100,-1,0.7436,-1,91.
+denseNet121_model_1.pth,200,0.8126,0.8770,92.08,90.8466
